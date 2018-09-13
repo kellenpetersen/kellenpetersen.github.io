@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Cédric Beaulac"
+title                    : "Cédric Beaulac T"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cédric Beaulac"
 description              : &description "personal description"
 url                      : https://CedricBeaulac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Cédric Beaulac"
   avatar           : "cb1.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Candidate at the University of Toronto"
+  location         : "Toronto, Ontario, Canada"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -93,24 +93,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  arXiv            : "https://arxiv.org/search/?query=Cédric+Beaulac&searchtype=all&source=header"
 
 
 # Reading Files
