@@ -82,7 +82,7 @@ author:
   name             : "Cédric Beaulac"
   avatar           : "cb1.png"
   bio              : "Ph.D. candidate at the University of Toronto"
-  location         : "Toronto, Ontario, Canada"
+  location         : #"Toronto, Ontario, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
   email            :
