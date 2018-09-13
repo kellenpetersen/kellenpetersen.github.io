@@ -13,6 +13,7 @@
   z-index: 20;
 
   &__inner-wrap {
+    background: #A3C3CD;   
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
@@ -53,7 +54,6 @@
   /*white-space: nowrap;*/
 
   &--lg {
-    background: #A3C3CD;  
     padding-right: 5em;
     font-weight: 700;
   }
