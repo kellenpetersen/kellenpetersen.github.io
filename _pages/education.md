@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Education"
 permalink: /education/
 author_profile: true
 ---
