@@ -1,12 +1,13 @@
-
 ---
-layout: default
+layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
 
-Contact
+{% include base_path %}
+
+Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
