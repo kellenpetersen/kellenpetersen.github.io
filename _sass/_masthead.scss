@@ -17,7 +17,7 @@
     padding: 1em 1em 1em;
     font-size : 3em;
     font-color :black;
-    font-family: $lucida-sans-serif-narrow;
+    font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
