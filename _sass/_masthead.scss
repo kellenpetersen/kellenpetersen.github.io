@@ -16,7 +16,6 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-size : 1.2em;
     color :black;
     font-family: $sans-serif-narrow;
 
@@ -38,7 +37,6 @@
    background: #A3C3CD;
    
   ul {
-    background: #9EBEC4; 
     margin: 0;
     padding: 0;
     clear: both;
@@ -47,13 +45,12 @@
 }
 
 .masthead__menu-item {
-  background: #9EBEC4; 
+  background: #A3C3CD;
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    background: #9EBEC4; 
     padding-right: 2em;
     font-weight: 700;
   }
