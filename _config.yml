@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Cédric Beaulac T"
+title                    : "Cédric Beaulac"
 title_separator          : "-"
 name                     : &name "Cédric Beaulac"
 description              : &description "personal description"
