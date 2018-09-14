@@ -21,6 +21,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
+      background: #A3C3CD;        
       max-width: $x-large;
     }
 
