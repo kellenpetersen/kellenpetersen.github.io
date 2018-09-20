@@ -8,6 +8,8 @@ venue: 'International Journal of Computer Games Technology'
 paperurl: 'http://downloads.hindawi.com/journals/ijcgt/2017/4939261.pdf'
 ---
 
+Cedric Beaulac and Fabrice Larribe
+
 ### Abstract :
 
 *We propose to use a supervised machine learning technique to track the location of a mobile agent in real time. Hidden Markov Models are used to build artificial intelligence that estimates the unknown position of a mobile target moving in a defined environment. This narrow
