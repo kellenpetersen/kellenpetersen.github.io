@@ -3,7 +3,6 @@
    ========================================================================== */
 
 .masthead {
-  color : #D3C5AC;
   background: #A3C3CD;
   position: relative;
   border-bottom: 1px solid $border-color;
@@ -17,8 +16,8 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    color : #D3C5AC;
     font-family: $sans-serif-narrow;
+    color : #D3C5AC; 
 
     @include breakpoint($x-large) {
       background: #A3C3CD;        
@@ -37,11 +36,9 @@
 }
 
 .masthead__menu {
-   color : #D3C5AC;
    background: #A3C3CD;
    margin-left: 2em;
   ul {
-    color : #D3C5AC; 
     background: #A3C3CD;     
     margin-left: 3em;
     margin: 0;
@@ -52,7 +49,6 @@
 }
 
 .masthead__menu-item {
-  color : #D3C5AC; 
   background: #A3C3CD;
   display: block;
   list-style-type: none;
