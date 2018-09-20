@@ -35,7 +35,7 @@ layout: default
         {% endif %}
          
 
-        {% if page.collection == 'teaching' %}
+        <!--{% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}    
     
@@ -45,14 +45,14 @@ layout: default
             <p>{{ page.authors }}</p>
           {% endif %}
           
-          <!--{% elsif page.venue and page.date %}
+          {% elsif page.venue and page.date %}
             <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.venue %}
             <p><i>{{ page.venue }}</i>, pre-prints </p>
           {% elsif page.date %}
             <p><i>Pre-prints</p>
-          {% endif %}-->
-        {% endif %}
+          {% endif %}
+        {% endif %}-->
         
              
         {% if page.citation and page.paperurl %}
