@@ -3,7 +3,7 @@ title: "Narrow Artificial Intelligence with Machine Learning for Real-Time Estim
 authors: Cedric Beaulac and Fabrice Larribe
 collection: publications
 permalink: /publication/IJCGT1
-date: 2017
+date: 2017-02-14
 venue: 'International Journal of Computer Games Technology'
 paperurl: 'http://downloads.hindawi.com/journals/ijcgt/2017/4939261.pdf'
 ---
