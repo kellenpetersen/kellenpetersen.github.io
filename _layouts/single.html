@@ -49,7 +49,7 @@ layout: default
             <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.venue %}
             <p><i>{{ page.venue }}</i>, pre-prints </p>
-          {% else %}
+          {% elsif page.date %}
             <p><i>Pre-prints</p>
           {% endif %}
         {% endif %}
