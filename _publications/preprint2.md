@@ -2,7 +2,7 @@
 title: "Handling Missing Values using Decision Trees with Branch-Exclusive Splits"
 collection: publications
 permalink: /publication/preprint2
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2999-01-01
 paperurl: 'https://arxiv.org/pdf/1804.10168'
 ---
