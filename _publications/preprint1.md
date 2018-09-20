@@ -3,8 +3,7 @@ title: "Predicting University Students' Academic Success and Choice of Major usi
 authors: Cedric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
-
-date: 
+date: 2999-01-01
 venue: 
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
