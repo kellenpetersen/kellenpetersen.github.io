@@ -8,8 +8,6 @@ venue: 'International Journal of Computer Games Technology, vol. 2017'
 paperurl: 'https://arxiv.org/pdf/1802.03417.pdf'
 ---
 
-# Narrow Artificial Intelligence with Machine Learning for Real-Time Estimation of a Mobile Agents Location Using Hidden Markov Models
+Abstract :
 
-Pas trop claire ce qui se passe ici
-
-* Cedric Beaulac and Fabrice Larribe
+*blablabla*
