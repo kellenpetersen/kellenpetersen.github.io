@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/IJCGT1
 date: 2017
 venue: 'International Journal of Computer Games Technology'
-paperurl: 'https://arxiv.org/pdf/1802.03417.pdf'
+paperurl: 'http://downloads.hindawi.com/journals/ijcgt/2017/4939261.pdf'
 ---
 
 ### Abstract :
