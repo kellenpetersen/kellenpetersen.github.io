@@ -91,6 +91,7 @@
 
       &:hover {
         color: $link-color-hover;
+        text-decoration-color: $text-color;
       }
 
       &.current {
