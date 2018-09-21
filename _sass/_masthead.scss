@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  background: #A3C3CD;
+  //background: #A3C3CD;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -18,8 +18,7 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      //background: #A3C3CD;        
+    @include breakpoint($x-large) {    
       max-width: $x-large;
     }
 
