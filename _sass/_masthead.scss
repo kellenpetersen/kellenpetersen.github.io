@@ -23,7 +23,7 @@
     }
 
     nav {
-      //background: #A3C3CD;         
+      background: $head-color;         
       z-index: 10;
     }
 
@@ -34,7 +34,7 @@
 }
 
 .masthead__menu {
-   background: $head-color;
+   //background: $head-color;
    margin-left: 2em;
   ul {
     background: #A3C3CD;     
