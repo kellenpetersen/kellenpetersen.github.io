@@ -34,10 +34,9 @@
 }
 
 .masthead__menu {
-   //background: $head-color;
    margin-left: 2em;
   ul {
-    background: #A3C3CD;     
+    background: $head-color;     
     margin-left: 3em;
     margin: 0;
     padding: 0;
