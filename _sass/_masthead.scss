@@ -23,7 +23,7 @@
     }
 
     nav {
-      background: #A3C3CD;         
+      //background: #A3C3CD;         
       z-index: 10;
     }
 
@@ -34,7 +34,7 @@
 }
 
 .masthead__menu {
-   background: #A3C3CD;
+   background: $head-color;
    margin-left: 2em;
   ul {
     background: #A3C3CD;     
@@ -47,7 +47,7 @@
 }
 
 .masthead__menu-item {
-  background: #A3C3CD;
+  background: $head-color;
   display: block;
   list-style-type: none;
   /*white-space: nowrap;*/
