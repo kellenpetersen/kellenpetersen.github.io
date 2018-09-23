@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D. in Statistical Sciences, University of Toronto, In progress
+Supervisor : Dr. Jeffrey S. Rosenthal
+
+* M.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2015
+Thesis :Narrow Artificial Intelligence for Real-Time Estimation of a Mobile Agent’s Location Using Hidden Markov Models
+Supervisor : Dr. Fabrice Larribe
+
+* B.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2013
+Awarded with highest distinction
 
 Work experience
 ======
