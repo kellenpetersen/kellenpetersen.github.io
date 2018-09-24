@@ -13,11 +13,11 @@ Education
 ======
 
 * Ph.D. in Statistical Sciences, University of Toronto, In progress
-  * Supervisor : Dr. Jeffrey S. Rosenthal
+  * Supervisor : [Dr. Jeffrey S. Rosenthal](http://probability.ca/jeff/)
 
 * M.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2015
   * Thesis :Narrow Artificial Intelligence for Real-Time Estimation of a Mobile Agent’s Location Using Hidden Markov Models
-  * Supervisor : Dr. Fabrice Larribe
+  * Supervisor : [Dr. Fabrice Larribe](http://fabricelarribe.uqam.ca)
 
 * B.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2013
   * Awarded with highest distinction
