@@ -20,7 +20,7 @@ Education
   * Supervisor : [Dr. Fabrice Larribe](http://fabricelarribe.uqam.ca)
 
 * B.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2013
-  * Awarded with highest distinction
+
 
 Work experience
 ======
