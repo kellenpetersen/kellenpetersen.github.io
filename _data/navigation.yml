@@ -8,7 +8,10 @@ main:
     url: /talks/    
 
   - title: "CV"
-    url: /CV/    
+    url: /CV/  
+    
+  - title: "Other"
+    url: /other/  
     
   - title: "Contact"
     url: /contact/
