@@ -39,6 +39,10 @@
   a + a {
     opacity: 0.5;
   }
+  &:hover {
+    text-decoration: underline;
+  }
+   
 }
 
 /* remove border*/
@@ -47,6 +51,7 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+     
   }
 }
 
@@ -74,12 +79,6 @@
 
   .archive__item-title {
     //text-decoration: underline;
-  }
-}
-
-.archive__item-title:hover {
-  .archive__item-title {
-    text-decoration: underline;
   }
 }
 
