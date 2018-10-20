@@ -24,6 +24,9 @@
    
   .archive__item-title {
    color: $text_color;
+     a {
+        color: $text_color;
+     }
    } 
 
 }
