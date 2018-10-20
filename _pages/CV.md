@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+testing link problems : [Dr. Jeffrey S. Rosenthal](http://probability.ca/jeff/)
+
 Education
 ======
 
