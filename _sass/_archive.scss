@@ -21,6 +21,10 @@
       text-decoration: underline;
     }
   }
+   
+  .archive__item-title {
+  color: $text_color;
+   } 
 
 }
 
@@ -244,9 +248,4 @@
     }
   }
    
-  .archive__item-title {
-  color: $text_color;
-   } 
-
-
 }
