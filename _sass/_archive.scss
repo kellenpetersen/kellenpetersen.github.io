@@ -37,17 +37,13 @@
 }
 
 .archive__item-title {
-  color: $text_color;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
   a + a {
-    color: $text_color;
     opacity: 0.5;
   }
-  &:hover {
-    text-decoration: underline;
-  }
+
    
 }
 
@@ -55,7 +51,6 @@
 .page__content {
 
   .archive__item-title {
-    color: $text_color;
     margin-top: 1em;
     border-bottom: none;
      
