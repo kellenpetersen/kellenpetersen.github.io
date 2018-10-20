@@ -15,7 +15,7 @@
   }
 
   a {
-    color: $text_color;
+    color: $link_color;
     text-decoration: none;
     &:hover {
       text-decoration: underline;
@@ -41,6 +41,7 @@
   font-family: $sans-serif-narrow;
 
   a + a {
+    color: $text_color;
     opacity: 0.5;
   }
   &:hover {
