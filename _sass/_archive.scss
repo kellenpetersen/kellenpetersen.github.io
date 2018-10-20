@@ -47,7 +47,9 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
   color: $text_color!important;
-
+  a {
+    color: $text_color!important;
+  }
   a + a {
     opacity: 0.5;
   }
