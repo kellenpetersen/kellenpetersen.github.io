@@ -237,8 +237,8 @@
         bottom: 0;
         height: 4px;
         //background: mix(#fff, $primary-color, 50%);
-        background : $text-color;
-        //background: mix($mas, $text-colo, 50%);
+        //background : $text-color;
+        background: mix($head-color, $text-colo, 20%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
