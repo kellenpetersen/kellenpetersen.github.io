@@ -15,7 +15,9 @@ Regarding VAEs I would like to perform complete and well-designed comparaison wi
 About the website
 =====
 
-Even though the website has been officially released, there is still room for plenty of improvments. I plan to release a French version of the website as soon as possible. I would also like to include a new section "Other" containing various course projects and other research reports that weren't publish. I might also include blog post about thoughts and feeling on academic related topics.
+Even though the website has been officially released, there is still room for plenty of improvments. Organization could be improved and so is navigation. Any comment will be considered!
+
+I also plan to release a French version of the website as soon as possible.  I would also like to include a new section "Other" containing various course projects and other research reports that weren't publish. I might as well include blog post about thoughts and feeling on academic related topics, such as the current states of research journals from a student perspective and personnal experiences with some models.
 
 
 About me (personally)
