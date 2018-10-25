@@ -17,13 +17,13 @@ Regarding VAEs I would like to perform complete and well-designed comparaison wi
 About the website
 =====
 
-Even that now the website has been officially released, there is still room for plenty of improvments. I plan to release a Frencn version of the website as soon as possible. I would also like to include a new section "Other" containing various course projects and other research reports that weren't publish. I might also include blog post about thoughts and feeling on academic related topics.
+Even though the website has been officially released, there is still room for plenty of improvments. I plan to release a French version of the website as soon as possible. I would also like to include a new section "Other" containing various course projects and other research reports that weren't publish. I might also include blog post about thoughts and feeling on academic related topics.
 
 
 About me (personally)
 =====
 
-I was born in Montréal in 1990 and even though I'm 
+I was born in Montréal in 1990 and still visit the city quite frenquently! I'm intrigued by game design in general but specialy video game design. 
 
 
 
