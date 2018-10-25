@@ -27,7 +27,3 @@ About me (personally)
 =====
 
 I was born in Montréal in 1990 and still visit the city quite frenquently! I like coffee, video games, Day9, biking, sciences and most geek stuff. I'm intrigued by game design in general but specialy video game design. I'm also interest in "Learning" in many ways. Lately I've also developped a taste for [random arts](http://art-aleatoire.com). 
-
-
-
-s
