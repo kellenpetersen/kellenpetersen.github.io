@@ -14,6 +14,16 @@ I'm currently a Ph.D. candidate in Statistical Sciences at the [University of To
 
 Regarding VAEs I would like to perform complete and well-designed comparaison with typical statistical Bayesian approach such as Monte Carlo Markov Chains(MCMC). As a vivid video game player I also stongly believe in the potential of generative models such as the ones provided by VAEs in order to create flexible, powerfull and computationnaly efficient procedural content generator. 
 
+About the website
+=====
+
+Even that now the website has been officially released, there is still room for plenty of improvments. I plan to release a Frencn version of the website as soon as possible. I would also like to include a new section "Other" containing various course projects and other research reports that weren't publish. I might also include blog post about thoughts and feeling on academic related topics.
+
+
+About me (personally)
+=====
+
+I was born in Montréal in 1990 and even though I'm 
 
 
 
