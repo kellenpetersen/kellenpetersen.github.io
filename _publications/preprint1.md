@@ -1,6 +1,6 @@
 ---
 title: "Predicting University Students' Academic Success and Choice of Major using Random Forests"
-authors: Cédric Beaulac and Jeffrey S. Rosenthal
+authors: Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 date: 2999-01-01
