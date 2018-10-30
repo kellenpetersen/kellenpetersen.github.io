@@ -10,8 +10,6 @@ redirect_from:
 
 I'm currently a Ph.D. candidate in Statistical Sciences at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeff Rosenthal](http://probability.ca/jeff/). I've been exploring many Statistical Learning algorithms during the last few years. More recently, I'm focusing my work on Probabilistic Graphical Modelling and Variational Auto-Encoder (VAE). I have a strong research interest towards explainable A.I. and model interpretability. 
 
-Regarding VAEs I would like to perform complete and well-designed comparaison with typical statistical Bayesian approach such as Monte Carlo Markov Chains(MCMC). As a vivid video game player I also stongly believe in the potential of generative models such as the ones provided by VAEs in order to create flexible, powerfull and computationnaly efficient procedural content generator. 
-
 
 About the website
 =====
@@ -26,4 +24,4 @@ I also plan to release a French version of the website as soon as possible.  I w
 About me (personally)
 =====
 
-I was born in Montréal in 1990 and still visit the city quite frenquently! I like coffee, video games, Day9, biking, sciences and most geek stuff. I'm intrigued by game design in general but specialy video game design. I'm also interest in "Learning" in many ways. Lately I've also developped a taste for [random arts](http://art-aleatoire.com). 
+I was born in Montréal in 1990 and still visit the city quite frenquently! I like coffee, video games, Day9, biking, sciences and most geek stuff. I'm intrigued by game design in general but specialy video game design. I'm also interest in "Learning" in many ways. Lately I've also developped a taste for random arts suhc as showcased [here](http://art-aleatoire.com). 
