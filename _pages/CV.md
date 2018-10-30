@@ -29,22 +29,22 @@ Awards
 * 2015: Alexander Graham Bell Canada Graduate Scholarships-Doctoral ([CGS D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp))
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
 
-* 2014: Master’s research scholarship (B1)
+* 2014: Master’s research scholarship ([B1](http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/programs-of-scholarships-of-2supndsup-and-3suprdsup-cycles-hwcq7b9k1466174971607))
   * Fonds de Recherche du Québec sur la Nature et les Technologies (FRQNT)
 
-* 2013: Alexander Graham Bell Canada Graduate Scholarships-Master (CGS M)
+* 2013: Alexander Graham Bell Canada Graduate Scholarships-Master ([CGS M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp))
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
 
-* 2013: Undergraduate student research award (USRA)
+* 2013: Undergraduate student research award ([USRA](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp))
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
   
 * 2013: Mathematics department excellence scholarship
   * Université du Québec à Montréal
 
-* 2012: Undergraduate student research award (USRA)
+* 2012: Undergraduate student research award ([USRA](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp))
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
 
-* 2011: Undergraduate student research award (USRA)
+* 2011: Undergraduate student research award ([USRA](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp))
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
 
   
