@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-If you want to discuss the possibility of a collaboration, some of my previous research projects or anything academic related, feel free to contact me at the following email adress :  
+If you want to discuss the possibility of a collaboration, some of my previous research projects or anything academic related, feel free to contact me at the following email address :  
   
 cedric@utstat.toronto.edu  
   
