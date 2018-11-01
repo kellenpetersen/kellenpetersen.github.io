@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I'm currently a Ph.D. candidate in Statistical Sciences at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeff Rosenthal](http://probability.ca/jeff/). I've been exploring many Statistical Learning algorithms during the last few years. More recently, I'm focusing my work on Probabilistic Graphical Modelling and Variational Auto-Encoder (VAE). I have a strong research interest towards explainable A.I. and model interpretability. I'm also interested in Video Game applications such as Procedural Content Generation and Believeble A.I.
+I am currently a Ph.D. candidate in Statistical Sciences at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeff Rosenthal](http://probability.ca/jeff/). I have been exploring many statistical learning algorithms during the last few years. More recently, I am focusing my work on Probabilistic Graphical Modelling and Variational Autoencoder (VAE). I have a strong research interest towards explainable A.I. and model interpretability. I am also interested in video game applications such as Procedural Content Generation and Believeble A.I.
 
 
 About the website
 =====
 
-Even though the website has been officially released, there is still plenty of room for improvements, I'm considering working on the organization and the navigation among other things. Any comments will be considered!
+Even though the website has been officially released, there is still plenty of room for improvements, I am considering working on the organization and the navigation among other things. Any comments will be considered!
 
 I also plan to release a French version of the website as soon as possible.  I would also like to include a new section "Other stuff" containing various course projects and other research reports that weren't published. I might as well include blog posts on thoughts and feelings towards academic-related topics.
 
@@ -25,4 +25,4 @@ I also plan to release a French version of the website as soon as possible.  I w
 About me (personally)
 =====
 
-I was born in Montréal in 1990 and still visit the city quite frequently! I like coffee, video games, streaming, biking, sciences and most geek stuff. I'm intrigued by game design in general but specially video game design. I'm also interested in "Learning" in many ways. Lately I've also developed a taste for random arts such as showcased [here](http://art-aleatoire.com). 
+I was born in Montréal in 1990 and still visit the city quite frequently! I like coffee, video games, streaming, biking, sciences and most geek stuff. I am intrigued by game design in general but specially video game design. I am also interested in "Learning" in many ways. Lately I have also developed a taste for random arts such as showcased [here](http://art-aleatoire.com). 
