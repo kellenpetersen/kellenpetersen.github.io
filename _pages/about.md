@@ -25,4 +25,4 @@ I also plan to release a French version of the website as soon as possible.  I w
 About me (personally)
 =====
 
-I was born in Montréal in 1990 and still visit the city quite frequently! I like coffee, video games, streaming, biking, sciences and most geek stuff. I am intrigued by game design in general but specially video game design. I am also interested in "Learning" in many ways. Lately I have also developed a taste for random arts such as showcased [here](http://art-aleatoire.com). 
+I was born in Montréal in 1990 and still visit the city quite frequently! I like coffee, video games, streaming, biking, sciences and most geek stuff. I am intrigued by game design in general but specially video game design. I am also interested in "learning" in many ways. Lately I have also developed a taste for random arts such as showcased [here](http://art-aleatoire.com). 
