@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate in Statistical Sciences at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeff Rosenthal](http://probability.ca/jeff/). I am also a graduate student affiliate at the [Vector Institute](https://vectorinstitute.ai). I have been exploring many statistical learning algorithms during the last few years. More recently, I am focusing my work on Probabilistic Graphical Models and Variational Autoencoders (VAE). I have a strong research interest towards explainable A.I. and model interpretability. I am also interested in video game applications such as Procedural Content Generation and Believeble A.I.
+I am currently a Ph.D. candidate in Statistical Sciences at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeff Rosenthal](http://probability.ca/jeff/). I am also a graduate student affiliate at the [Vector Institute](https://vectorinstitute.ai). I have been exploring many statistical learning algorithms during the last few years. More recently, I am focusing my work on Probabilistic Graphical Models and Variational Autoencoders (VAE). I have a strong research interest towards explainable A.I. and model interpretability. I am also interested in video game applications such as Procedural Content Generation.
 
 
 About the website
