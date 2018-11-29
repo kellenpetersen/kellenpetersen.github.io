@@ -1,6 +1,6 @@
 ---
 title: "Handling Missing Values using Decision Trees with Branch-Exclusive Splits"
-authors : Jeffrey S. Rosenthal
+authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint2
 status : accepted
