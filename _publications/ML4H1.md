@@ -3,11 +3,11 @@ title: "A Deep Latent-Variable Model Application to Select Treatment Intensity i
 authors : Jeffrey S. Rosenthal and David Hodgson
 collection: publications
 permalink: /publication/ML4H1
-excerpt: 
+excerpt: ML4H Workshop at NeurIPS 2018 Proceedings
 date: 2018-12-08
 paperurl: 'https://cedricbeaulac.github.io/files/ML4HSubCR.pdf'
 ---
-Submitted preprint
+Accepted paper at the [ML4H Workshop](https://ml4health.github.io/2018/) held at [NeurIPS 2018](https://nips.cc)
 
 ### Abstract :
 
