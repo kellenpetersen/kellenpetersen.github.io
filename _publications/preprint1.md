@@ -4,11 +4,12 @@ authors: Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 date: 2999-01-01
-venue: 
+Status : Submitted
+venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
 
-Submitted preprint
+Submitted at [Research in Higher Education](https://link.springer.com/journal/11162)
 
 ### Abstract :
 
