@@ -1,8 +1,9 @@
 ---
 title: "Narrow Artificial Intelligence with Machine Learning for Real-Time Estimation of a Mobile Agents Location Using Hidden Markov Models"
-authors: Fabrice Larribe
+authors: C\'edric Beaulac and Fabrice Larribe
 collection: publications
 permalink: /publication/IJCGT1
+status : Accepted
 date: 2017-02-14
 venue: 'International Journal of Computer Games Technology'
 paperurl: 'http://downloads.hindawi.com/journals/ijcgt/2017/4939261.pdf'
