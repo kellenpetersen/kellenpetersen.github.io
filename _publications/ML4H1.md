@@ -1,6 +1,6 @@
 ---
 title: "A Deep Latent-Variable Model Application to Select Treatment Intensity in Survival Analysis"
-authors : Jeffrey S. Rosenthal and David Hodgson
+authors : Cédric Beaulac, Jeffrey S. Rosenthal and David Hodgson
 collection: publications
 status : Accepted
 permalink: /publication/ML4H1
