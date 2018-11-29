@@ -2,7 +2,7 @@
 title: "A Deep Latent-Variable Model Application to Select Treatment Intensity in Survival Analysis"
 authors : Jeffrey S. Rosenthal and David Hodgson
 collection: publications
-Status : Accepted
+status : Accepted
 permalink: /publication/ML4H1
 venue: ML4H Workshop at NeurIPS 2018 Proceedings
 date: 2018-12-08
