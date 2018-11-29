@@ -4,7 +4,7 @@ authors : Jeffrey S. Rosenthal and David Hodgson
 collection: publications
 status : Accepted
 permalink: /publication/ML4H1
-venue: ML4H Workshop at NeurIPS 2018 Proceedings
+venue: Proceedings of the Machine Learning for Health (ML4H) Workshop at NeurIPS 2018
 date: 2018-12-08
 paperurl: 'https://cedricbeaulac.github.io/files/ML4HSubCR.pdf'
 ---
