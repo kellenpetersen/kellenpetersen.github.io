@@ -3,11 +3,12 @@ title: "Handling Missing Values using Decision Trees with Branch-Exclusive Split
 authors : Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint2
-excerpt: 
+status : accepted
+venue : Machine Learning 
 date: 2999-01-01
 paperurl: 'https://arxiv.org/pdf/1804.10168'
 ---
-Submitted preprint
+Submitted at [Machine Learning](https://www.springer.com/new+&+forthcoming+titles+(default)/journal/10994)
 
 ### Abstract :
 
