@@ -4,7 +4,7 @@ authors: Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 date: 2999-01-01
-Status : Submitted
+status : Submitted
 venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
