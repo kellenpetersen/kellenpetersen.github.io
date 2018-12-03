@@ -9,7 +9,7 @@ venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
 
-Submitted at [Research in Higher Education](https://link.springer.com/journal/11162)
+Submitted to [Research in Higher Education](https://link.springer.com/journal/11162)
 
 ### Abstract :
 
