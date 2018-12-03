@@ -8,7 +8,7 @@ venue : Machine Learning
 date: 2999-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/BESTML2.pdf'
 ---
-Submitted at [Machine Learning](https://www.springer.com/new+&+forthcoming+titles+(default)/journal/10994)
+Submitted to [Machine Learning](https://www.springer.com/new+&+forthcoming+titles+(default)/journal/10994)
 
 ### Abstract :
 
