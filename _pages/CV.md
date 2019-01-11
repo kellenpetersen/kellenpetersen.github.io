@@ -60,6 +60,17 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+University commitment
+======
+* 2014-2015 : Mathematics Graduate Student Union
+* 2011-2013 : Mathematics Undergraduate Programs Committee
+* 2011-2012 : Mathematics Teaching Evaluation Committee
+* 2011-2012 : Mathematics New Students Integration Committee
+
+Teaching
+======
+Under Construction
+  
 Language
 ======
 * Computer
