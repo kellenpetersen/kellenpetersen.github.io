@@ -69,14 +69,7 @@ University commitment
 
 Teaching Assistant
 ======
-* Statistical Consulting Mentoring 
-  * 2018-2019 : Statistical Consultation, Communication, and Collaboration  (STA490)
-  
-* Tutorial Sessions 
-  * 2019 : Statistical Methods for Machine Learning II (STA414)
-  * 2014 : Statistics II (STT2000)
-  * 2012-2014 : Stochastic Processes (MAT2720)(5 occurences)
-  * 2011-2013 : Probability and statistics (MAt1085)(3 occurences)
+
   
 Language
 ======
