@@ -67,9 +67,16 @@ University commitment
 * 2011-2012 : Mathematics Teaching Evaluation Committee
 * 2011-2012 : Mathematics New Students Integration Committee
 
-Teaching
+Teaching Assistant
 ======
-Under Construction
+* Statistical Consulting Mentoring 
+  * 2018-2019 : Statistical Consultation, Communication, and Collaboration  
+  
+* Tutorial Sessions 
+  * 2019 : Statistical Methods for Machine Learning II (STA 414)
+  * 2014 : Statistics II (STT2000)
+  * 2012-2014 : Stochastic Processes (MAT2720)(5 occurences)
+  * 2011-2013 : Probability and statistics (MAt1085)(3 occurences)
   
 Language
 ======
