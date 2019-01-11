@@ -67,13 +67,6 @@ University commitment
 * 2011-2012 : Mathematics Teaching Evaluation Committee
 * 2011-2012 : Mathematics New Students Integration Committee
 
-Teaching Assistant
-======
-* Statistical Consulting Mentoring 
-  * 2018-2019 : Statistical Consultation, Communication, and Collaboration  (STA490)
-  
-
-  
 Language
 ======
 * Computer
