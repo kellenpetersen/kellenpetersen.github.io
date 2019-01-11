@@ -67,10 +67,12 @@ University commitment
 * 2011-2012 : Mathematics Teaching Evaluation Committee
 * 2011-2012 : Mathematics New Students Integration Committee
 
-Teaching Assistant
+Language
 ======
-* Statistical Consulting Mentorship
-  * Blabla
+* Computer
+  * R, Python, C++, Matlab, Excel, Java, SAS,
+* Human 
+  * French, English
 
 Language
 ======
