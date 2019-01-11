@@ -69,6 +69,9 @@ University commitment
 
 Teaching Assistant
 ======
+* Statistical Consulting Mentoring 
+  * 2018-2019 : Statistical Consultation, Communication, and Collaboration  (STA490)
+  
 
   
 Language
