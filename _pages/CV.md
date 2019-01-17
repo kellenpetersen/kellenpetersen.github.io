@@ -69,9 +69,9 @@ University commitment
 
 Teaching Assistant
 ======
-* Computer
-  * R, Python, C++, Matlab, Excel, Java, SAS,
-* Human 
+* Statistical Consulting Mentorship
+  * STA490:  
+* Tutorial Session
   * French, English
 
 Language
