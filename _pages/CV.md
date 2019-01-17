@@ -67,7 +67,7 @@ University commitment
 * 2011-2012 : Mathematics Teaching Evaluation Committee
 * 2011-2012 : Mathematics New Students Integration Committee
 
-Language
+Teaching Assistant
 ======
 * Computer
   * R, Python, C++, Matlab, Excel, Java, SAS,
