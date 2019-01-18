@@ -70,9 +70,11 @@ University commitment
 Teaching Assistant
 ======
 * Statistical Consulting Mentorship
-  * STA490:  
+  * 2018-2019 STA490: Statistical Consultation, Communication and Collaboration
+  
 * Tutorial Session
-  * French, English
+  * 2011-2013 MAT1085: Probability and Statistics
+  * 2012-2014 MAT2070: Stochastic Processes
 
 Language
 ======
