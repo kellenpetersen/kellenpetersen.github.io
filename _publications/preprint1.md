@@ -4,12 +4,12 @@ authors: Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 date: 2999-01-01
-status : Submitted
+status : Accepted
 venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
 
-Submitted to [Research in Higher Education](https://link.springer.com/journal/11162)
+Accepted in [Research in Higher Education](https://link.springer.com/journal/11162)
 
 ### Abstract :
 
