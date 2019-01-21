@@ -9,7 +9,7 @@ venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
 
-This is a post-peer-review, pre-copyedit version of an article published in [Research in Higher Education](https://link.springer.com/journal/11162). The final authenticated version is available online at: http://dx.doi.org/[insert DOI]
+This is a post-peer-review, pre-copyedit version of an article published in [Research in Higher Education](https://link.springer.com/journal/11162). The final authenticated version is available online at: http://dx.doi.org/10.1007/s11162-019-09546-y .
 
 ### Abstract :
 
