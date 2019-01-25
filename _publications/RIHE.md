@@ -3,7 +3,7 @@ title: "Predicting University Students' Academic Success and Major using Random 
 authors: Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/RIHE
-date: 2019-02-01
+date: 2019-01-25
 status : Accepted
 venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
