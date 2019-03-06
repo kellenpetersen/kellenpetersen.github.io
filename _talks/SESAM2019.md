@@ -3,7 +3,7 @@ title: "Génération d'images : Une application de l'apprentissage automatique."
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/SESAM2019
-venue: "SÉSAM 2019"
+venue: "SÉSÀM 2019"
 date: 2019-03-15
 location: "Montréal, Québec, Canada"
 ---
