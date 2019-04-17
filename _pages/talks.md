@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /Talks/
+author_profile: true
+---
+
+{% include base_path %}
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
