@@ -10,12 +10,12 @@ author_profile: true
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Posters
 ======
   <ul>{% for post in site.posters reversed %}
-    {% include archive-single-talk.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
