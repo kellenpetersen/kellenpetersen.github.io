@@ -60,6 +60,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+   <ul>{% for post in site.posters reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 University commitment
 ======
 * 2014-2015 : Mathematics Graduate Student Union
