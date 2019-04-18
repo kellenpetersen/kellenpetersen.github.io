@@ -16,6 +16,9 @@ Talks
 Posters
 ======
   <ul>{% for post in site.posters reversed %}
-    {% include archive-single-talk-cv.html %}
+  {% include archive-single.html %}
   {% endfor %}</ul>
   
+  {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
