@@ -24,6 +24,8 @@ Education
 Awards
 ======
 
+* 2019 : Ontario Graduate Scholarship (OGS)
+
 * 2018 : Ontario Graduate Scholarship (OGS)
 
 * 2015: Alexander Graham Bell Canada Graduate Scholarships-Doctoral ([CGS D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp))
