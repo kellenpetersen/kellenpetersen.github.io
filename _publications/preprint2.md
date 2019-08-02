@@ -16,4 +16,4 @@ Submitted to [Machine Learning](https://www.springer.com/new+&+forthcoming+title
 
 Download [here](https://cedricbeaulac.github.io/files/BESTML3.pdf)
 
-Download the R-Package [here](https://cedricbeaulac.github.io/files/BESTree_0.4.0.tar.gz)
+Download the R-Package [here](https://cedricbeaulac.github.io/files/BESTree_0.5.0.tar.gz)
