@@ -12,7 +12,15 @@ Submitted to [Machine Learning](https://www.springer.com/new+&+forthcoming+title
 
 ### Abstract :
 
-*In this article we propose a new decision tree algorithm. The proposed approach allows the algorithm to interact with some predictors that are only defined in subspaces of the predictor space. One way to utilize this new algorithm is to create or use a predictor to keep track of missing values. This predictor can later be used to define the subspace where predictors with missing values are available for the data partitioning process. By doing so, this new classification tree can handle missing values for both modelling and prediction. The algorithm is tested against simulated and real data. The result is a classification procedure that efficiently handles missing values and produces results that are more accurate and more interpretable than most common procedures.*
+*The main contribution of this paper is the development of a new decision tree
+algorithm. The proposed approach allows users to guide the algorithm through the
+data partitioning process. We believe this feature has many applications but in this
+paper we demonstrate how to utilize this algorithm to analyse data sets containing
+missing values. We tested our algorithm against simulated data sets with various
+missing data structures and a real data set. The results demonstrate that this new
+classification procedure efficiently handles missing values and produces results that
+are slightly more accurate and more interpretable than most common procedures
+without any imputations or pre-processing.*
 
 Download [here](https://cedricbeaulac.github.io/files/BESTML3.pdf)
 
