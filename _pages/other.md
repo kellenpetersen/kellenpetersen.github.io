@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Other"
 permalink: /other/
