@@ -1,7 +1,7 @@
 ---
 title: "Narrow Artificial Intelligence with Machine Learning for Real-Time Estimation of a Mobile Agents Location Using Hidden Markov Models"
 authors: Cédric Beaulac and Fabrice Larribe
-collection: publication
+collection: publications
 permalink: /other/HMMJeux
 status : Accepted
 date: 2017-02-14
