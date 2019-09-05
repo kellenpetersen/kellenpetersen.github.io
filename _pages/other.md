@@ -9,5 +9,5 @@ Here are some research projects I've done as undergraduate and master student. T
 
 
   <ul>{% for post in site.other reversed %}
-    {% include archive-single-poster.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
