@@ -4,11 +4,9 @@ cachés à des fins d’amélioration
 d’intelligences artificielles dans les jeux vidéo"
 authors: Cédric Beaulac
 collection: miscellaneous
-permalink: /other/HMMJeux
+permalink: /miscellaneous/HMMJeux
 status : Accepted
-date: 2017-02-14
-venue: 'International Journal of Computer Games Technology'
-paperurl: 'http://downloads.hindawi.com/journals/ijcgt/2017/4939261.pdf'
+date: 2014-01-01
 ---
 
 Published in [International Journal of Computer Games Technology](https://www.hindawi.com/journals/ijcgt/)
