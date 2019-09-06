@@ -2,7 +2,7 @@
 title: "Statistical Learning Techniques : A review"
 authors: Cédric Beaulac
 collection: miscellaneous
-permalink: /miscellaneous/HMMJeux
+permalink: /miscellaneous/SLNotes
 status : Accepted
 date: 2013-12-15
 ---
