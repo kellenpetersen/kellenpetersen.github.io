@@ -4,7 +4,7 @@ authors: Cédric Beaulac
 collection: miscellaneous
 permalink: /miscellaneous/SLNotes
 status : Accepted
-date: 2013-12-15
+date: 2016-01-01
 ---
 
 Short review of Statistical Learning techniques. 
