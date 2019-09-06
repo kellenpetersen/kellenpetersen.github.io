@@ -237,7 +237,7 @@ defaults:
   # _miscellaneous
   - scope:
       path: ""
-      type: publications
+      type: miscellaneous
     values:
       layout: single
       author_profile: true
