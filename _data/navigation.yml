@@ -10,8 +10,8 @@ main:
   - title: "CV"
     url: /CV/  
     
-  - title: "Other"
-    url: /other/  
+  - title: "miscellaneous"
+    url: /miscellaneous/  
     
   - title: "Contact"
     url: /contact/
