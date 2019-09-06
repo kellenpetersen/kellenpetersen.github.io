@@ -15,13 +15,5 @@ Posters
   <ul>{% for post in site.miscellaneous reversed %}
     {% include archive-single-poster.html %}
   {% endfor %}</ul>
-  
-  
-  Posters
-======
 
-
-  <ul>{% for post in site.posters reversed %}
-    {% include archive-single-poster.html %}
-  {% endfor %}</ul>
   
