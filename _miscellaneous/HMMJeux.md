@@ -7,3 +7,6 @@ status : Accepted
 date: 2014-01-01
 ---
 
+Ce rapport fut déposé dans le cadre d'un cours gradué à l'Université du Québec à Montréal.
+
+Télécharger [ici]()
