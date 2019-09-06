@@ -12,7 +12,7 @@ Posters
 ======
 
 
-  <ul>{% for post in site.pubs reversed %}
+  <ul>{% for post in site.miscellaneous reversed %}
     {% include archive-single-poster.html %}
   {% endfor %}</ul>
   
