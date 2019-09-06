@@ -1,6 +1,8 @@
 ---
-title: "Narrow Artificial Intelligence with Machine Learning for Real-Time Estimation of a Mobile Agents Location Using Hidden Markov Models"
-authors: Cédric Beaulac and Fabrice Larribe
+title: "Utilisation des modèles de semi-Markov
+cachés à des fins d’amélioration
+d’intelligences artificielles dans les jeux vidéo"
+authors: Cédric Beaulac
 collection: publications
 permalink: /other/HMMJeux
 status : Accepted
