@@ -8,6 +8,6 @@ author_profile: true
 Here are some research projects I've done as undergraduate and master student. They were all written in french.
 
 
-  <ul>{% for post in site.other reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
