@@ -183,7 +183,9 @@ collections:
   posters:
     output: true
     permalink: /:collection/:path/
-
+  Miscellaneous:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
