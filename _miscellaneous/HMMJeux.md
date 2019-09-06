@@ -3,7 +3,7 @@ title: "Utilisation des modèles de semi-Markov
 cachés à des fins d’amélioration
 d’intelligences artificielles dans les jeux vidéo"
 authors: Cédric Beaulac
-collection: publications
+collection: miscellaneous
 permalink: /other/HMMJeux
 status : Accepted
 date: 2017-02-14
