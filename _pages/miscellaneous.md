@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-Here is a list of unpublished work. Most of it is undegraduate and graduate research report.
+Here is a list of unpublished work.
 
 
   {% for post in site.miscellaneous reversed %}
