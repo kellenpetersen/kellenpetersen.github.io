@@ -9,4 +9,4 @@ date: 2014-11-27
 
 Ce rapport fut déposé dans le cadre d'un cours gradué à l'Université du Québec à Montréal.
 
-Télécharger [ici](http://cedricbeaulac.github.io/files/HMM-JeuxVideo.pdf)
+Télécharger [ici](http://cedricbeaulac.github.io/files/HMM-SerieChronoFinal.pdf)
