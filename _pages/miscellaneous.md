@@ -9,7 +9,7 @@ Here is a list of unpublished work. Most of it is undegraduate and graduate rese
 
 
   <ul>{% for post in site.miscellaneous reversed %}
-    {% include archive-single-poster.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
   
