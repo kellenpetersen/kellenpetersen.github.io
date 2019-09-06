@@ -28,7 +28,7 @@ Awards
 
 * 2018 : Ontario Graduate Scholarship (OGS)
 
-* 2015: Alexander Graham Bell Canada Graduate Scholarships-Doctoral ([CGS D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp))
+* 2015: Alexander Graham Bell Canada Graduate Scholarships-Doctoral ([CGS D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp))
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
 
 * 2014: Master’s research scholarship ([B1](http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/programs-of-scholarships-of-2supndsup-and-3suprdsup-cycles-hwcq7b9k1466174971607))
