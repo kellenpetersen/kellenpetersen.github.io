@@ -10,4 +10,4 @@ location: "Montréal, Québec, Canada"
 
 This was my Master thesis defense. The talk was given at the Université du Québec à Montréal.
 
-Download the slides [here].
+Download the slides [here](https://cedricbeaulac.github.io/files/Presentation.pdf).
