@@ -9,6 +9,6 @@ If you want to discuss the possibility of a collaboration, some of my previous r
   
 cedric@utstat.toronto.edu  
   
-If you just want to chat about game design, prodecural content generation or anything else, I would love to, so just send me an email!
+If you just want to chat about game design, prodecural content generation or anything else, I would love to as well! I think I'm very approachable, send me an email. 
  
 
