@@ -16,7 +16,7 @@ Education
   * Supervisor : [Dr. Jeffrey S. Rosenthal](http://probability.ca/jeff/)
 
 * M.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2015
-  * Thesis :Narrow Artificial Intelligence for Real-Time Estimation of a Mobile Agent’s Location Using Hidden Markov Models
+  * Thesis : [Narrow Artificial Intelligence for Real-Time Estimation of a Mobile Agent’s Location Using Hidden Markov Models](https://cedricbeaulac.github.io/files/VersionFinale.pdf)
   * Supervisor : [Dr. Fabrice Larribe](http://fabricelarribe.uqam.ca)
 
 * B.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2013
