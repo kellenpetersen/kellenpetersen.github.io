@@ -6,7 +6,7 @@ permalink: /publication/preprint2
 status : Submitted
 venue : Machine Learning 
 date: 2999-01-01
-paperurl: 'https://cedricbeaulac.github.io/files/BESTML2.pdf'
+paperurl: 'https://cedricbeaulac.github.io/files/BESTML3.pdf'
 ---
 Submitted to [Machine Learning](https://www.springer.com/new+&+forthcoming+titles+(default)/journal/10994)
 
