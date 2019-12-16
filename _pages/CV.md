@@ -96,4 +96,4 @@ Language
 * Computer
   * R, Python, C++, Matlab, Excel, Java, SAS,
 * Human 
-  * French, English, Spanigh (beginner) 
+  * French, English, Spanish (beginner) 
