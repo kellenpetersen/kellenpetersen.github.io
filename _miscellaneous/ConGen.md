@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/preprint3
 status : Submitted
 venue : Proceedings of the Machine Learning for Creativity and Design workshop at NeurIPS 2019
-date: 2999-01-01
+date: 2019-10-01
 paperurl: 'https://cedricbeaulac.github.io/files/ML4Design2.pdf'
 ---
 Submitted to [Machine Learning for Creativity and Design workshop](https://neurips2019creativity.github.io) at NeurIPS 2019.
