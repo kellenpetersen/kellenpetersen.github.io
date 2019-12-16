@@ -4,11 +4,11 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint2
 status : Submitted
-venue : Machine Learning 
+venue : Computational Statistics 
 date: 2999-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/BESTML3.pdf'
 ---
-Submitted to [Machine Learning](https://www.springer.com/new+&+forthcoming+titles+(default)/journal/10994)
+Submitted to [Computational Statistics](https://link.springer.com/journal/180)
 
 ### Abstract :
 
