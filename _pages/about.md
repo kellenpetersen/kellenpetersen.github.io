@@ -15,7 +15,7 @@ I am currently a Ph.D. candidate in Statistical Sciences at the [University of T
 About the website
 =====
 
-I have recently released a Miscellaneous section containing unpublished article, research project or notes I wrote for myself covering a wide range of topics I studied the last few years.
+I have recently released a Miscellaneous section containing unpublished articles, research projects or notes I wrote for myself covering a wide range of topics I studied the last few years.
 
 I also plan to release a French version of the website soon. I might as well include blog posts on thoughts and feelings towards academic-related topics.
 
