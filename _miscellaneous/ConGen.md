@@ -1,14 +1,14 @@
 ---
 title: "Controllable content generation"
 authors : Cédric Beaulac, Jeffrey S. Rosenthal and David K. Duvenaud
-collection: publications
-permalink: /publication/preprint3
+collection: miscellaneous
+permalink: /miscellaneous/ConGen
 status : Submitted
 venue : Proceedings of the Machine Learning for Creativity and Design workshop at NeurIPS 2019
 date: 2019-10-01
 paperurl: 'https://cedricbeaulac.github.io/files/ML4Design2.pdf'
 ---
-Submitted to [Machine Learning for Creativity and Design workshop](https://neurips2019creativity.github.io) at NeurIPS 2019.
+Submitted to [Machine Learning for Creativity and Design workshop](https://neurips2019creativity.github.io) at NeurIPS 2019. (Rejected)
 
 ### Abstract :
 
