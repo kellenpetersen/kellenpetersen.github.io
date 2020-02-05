@@ -81,8 +81,8 @@ Teaching
 * Course Instructor
   * 2019 STA302 :  Methods of Data Analysis I
   
-* Statistical Consulting Mentorship
-  * 2018-2019 STA490: Statistical Consultation, Communication and Collaboration
+* Statistical Consulting Mentor
+  * 2018-2020 STA490: Statistical Consultation, Communication and Collaboration
   
 * Teaching Assistant
   * 2019 STA414: Statistical Methods for Machine Learning II
@@ -96,4 +96,4 @@ Language
 * Computer
   * R, Python, C++, Matlab, Excel, Java, SAS,
 * Human 
-  * French, English, Spanish (beginner) 
+  * French, English, Spanish (intermediate) 
