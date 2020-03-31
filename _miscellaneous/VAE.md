@@ -1,5 +1,5 @@
 ---
-title: "Variational Autoencoders: Theory, implementation and unanswered questions"
+title: "Variational Autoencoders: theory, implementation and unanswered questions"
 authors: Cédric Beaulac
 collection: miscellaneous
 permalink: /miscellaneous/VAE
