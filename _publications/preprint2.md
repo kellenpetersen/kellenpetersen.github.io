@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/preprint2
 status : Accepted
 venue : Computational Statistics 
-date: 2999-01-01
+date: 2020-04-14
 paperurl: 'https://cedricbeaulac.github.io/files/BESTML3.pdf'
 ---
 Accepted in [Computational Statistics](https://link.springer.com/journal/180)
