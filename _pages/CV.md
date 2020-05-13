@@ -24,7 +24,13 @@ Education
 Awards
 ======
 
+* 2020 : Departmental Teaching Assistant Award
+  * Department of Statistical Sciences, University of Toronto
+
 * 2019 : Ontario Graduate Scholarship (OGS)
+
+* 2019 : Best Poster Award
+  * University of Toronto Statistics Graduate Student Research Day 
 
 * 2018 : Ontario Graduate Scholarship (OGS)
 
