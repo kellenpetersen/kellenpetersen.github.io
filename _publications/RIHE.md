@@ -4,7 +4,7 @@ authors: Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/RIHE
 date: 2019-01-25
-status : Accepted
+status : Published
 venue: Research in Higher Education
 paperurl: 'https://arxiv.org/pdf/1802.03418'
 ---
