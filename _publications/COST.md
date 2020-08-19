@@ -3,7 +3,7 @@ title: "BEST : A decision tree algorithm that handles missing values"
 authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/COST
-status : Accepted
+status : Published
 venue : Computational Statistics 
 date: 2020-04-18
 paperurl: 'https://cedricbeaulac.github.io/files/BESTarXiv.pdf'
