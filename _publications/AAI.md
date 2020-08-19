@@ -8,7 +8,7 @@ venue : Applied Artificial Intelligence
 date: 2999-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/AAISub.pdf'
 ---
-Submitted to [Applied Artificial Intelligence](https://tandfonline.com/toc/uaai20/current).
+Accepted for publication in [Applied Artificial Intelligence](https://tandfonline.com/toc/uaai20/current).
 
 ### Abstract :
 
