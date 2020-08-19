@@ -3,7 +3,7 @@ title: "An evaluation of machine learning techniques to predict the outcome of c
 authors : Cédric Beaulac, Jeffrey S. Rosenthal, Qinglin Pei, Debra Friedman, Suzanne Wolden and David Hodgson
 collection: publications
 permalink: /publication/preprint3
-status : Submitted
+status : Accepted
 venue : Applied Artificial Intelligence
 date: 2999-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/AAISub.pdf'
