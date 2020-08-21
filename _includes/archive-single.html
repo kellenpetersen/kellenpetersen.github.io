@@ -48,6 +48,9 @@
         {% elsif post.collection == 'publications' and post.status =='Published' %}
           <p>{{ post.authors}}</p>
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: '%B %Y' }}</p>
+        {% elsif post.collection == 'publications' and post.status =='Upcoming' %}
+          <p>{{ post.authors}}</p>
+          <p>Upcoming article</p>
         {% elsif post.collection == 'publications' %}
           <p>{{ post.authors}}</p>
           <p> Submitted to <i>{{ post.venue }}</i> </p>
