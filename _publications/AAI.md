@@ -2,7 +2,7 @@
 title: "An evaluation of machine learning techniques to predict the outcome of children treated for Hodgkin-Lymphoma on the AHOD0031 trial"
 authors : Cédric Beaulac, Jeffrey S. Rosenthal, Qinglin Pei, Debra Friedman, Suzanne Wolden and David Hodgson
 collection: publications
-permalink: /publication/preprint3
+permalink: /publication/AAI
 status : Accepted
 venue : Applied Artificial Intelligence
 date: 2999-01-01
