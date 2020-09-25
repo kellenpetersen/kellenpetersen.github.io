@@ -3,11 +3,11 @@ title: "Estimation de la position d'un agent mobile dans un environnement borné
 collection: talks
 type: "Talk"
 permalink: /talks/MDefense
-venue: "Master Thesis Defense"
+venue: "Master Thesis Presentation"
 date: 2015-07-02
 location: "Montréal, Québec, Canada"
 ---
 
-This was my Master thesis defense. The talk was given at the Université du Québec à Montréal.
+This was a departmental presentation of my master thesis. The talk was given at the Université du Québec à Montréal.
 
 Download the slides [here](https://cedricbeaulac.github.io/files/Presentation.pdf).
