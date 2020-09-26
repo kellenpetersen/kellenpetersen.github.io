@@ -18,8 +18,7 @@ Education
 
 * M.S. in Mathematics, New York University
 
-* B.S. in Mathematics, University of Utah
-* B.S. in Physics, University of Utah
+* B.S. in Mathematics & B.S. in Physics, University of Utah
 
 Awards
 ======
