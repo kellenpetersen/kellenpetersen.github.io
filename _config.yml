@@ -82,7 +82,7 @@ author:
   name             : "Kellen Petersen"
   avatar           : "kkp1.jpeg" #"cb1.png"
   bio              : "Postdoctoral Research Fellow at the Albert Einstein College of Medicine"
-  location         : "New York, NY, USA"
+  location         : "New York, NY"
   employer         :
   googlescholar    : #"https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
   email            :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : https://github.com/kellenpetersen #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
