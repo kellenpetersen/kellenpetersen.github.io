@@ -8,18 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a Postdoctoral Research Fellow in the [Department of Neurology](https://www.einstein.yu.edu/departments/neurology/) at the [Albert Einstein College of Medicine](https://www.einstein.yu.edu/) under the supervision of [Dr. Ali Ezzati](https://www.einstein.yu.edu/faculty/13307/ali-ezzati/) and [Dr. Richard B. Lipton](https://www.einstein.yu.edu/faculty/7405/richard-lipton/). My current work is focused on applying machine learning techniques to various aspects of the development, diagnosis, and study of Alzheimer's Disease.
 
-I am currently a Ph.D. candidate in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeffrey S. Rosenthal](http://probability.ca/jeff/). I am also a graduate student affiliate at the [Vector Institute](https://vectorinstitute.ai). I have been exploring many statistical learning algorithms during the last few years. More recently, I am focusing my work on Probabilistic Graphical Models and Variational Autoencoders (VAE) but I have always been intrigued by Latent Variable Models in general. I have a strong research interest towards explainable A.I. and model interpretability. I am also interested in video game applications such as Procedural Content Generation.
-
-
-About the website
-=====
-
-I have recently released a Miscellaneous section containing unpublished articles, research projects or notes I wrote for myself covering a wide range of topics I studied the last few years.
-
-I also plan to release a French version of the website soon. I might as well include blog posts on thoughts and feelings towards academic-related topics.
-
-About me (personally)
-=====
-
-I was born in Montréal in 1990 and still visit the city quite frequently! I like coffee, video games, streaming, biking, sciences and most geek stuff. I am intrigued by game design in general but specially video game design. If I could duplicate myself, the other me would definitely study game design and I hope to find a way to combine both my passion for stats and video game design in some interesting way. I am also interested in "learning" in general. Lately I have also developed a taste for random arts such as showcased [here](http://art-aleatoire.com). 
+My doctoral work centered on the numerical study of superhydrophobics using both a phase field and classical energy approach to understand energy landscape by identifying metastable droplet states. Additionally, a novel, proof-of-concept surface optimization problem was studied that evolves towards an optimal surface geometry such that droplet rolling is more energetically probable than collapsing. This is achieved by minimizing an objective functional that is constructed to minimize favorable energy barriers and increase unfavorable barriers. 
