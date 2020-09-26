@@ -13,13 +13,15 @@ Education
 ======
 
 * Ph.D. in Statistical Sciences, University of Toronto, In progress
-  * Supervisor : [Dr. Jeffrey S. Rosenthal](http://probability.ca/jeff/)
+  * Thesis : Numerical Studies of Droplets on Superhydrophobic Surfaces
+  * Advisor : [Dr. Robert V. Kohn](https://www.math.nyu.edu/faculty/kohn/)
 
-* M.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2015
+* M.S. in Mathematics, New York University
   * Thesis : [Narrow Artificial Intelligence for Real-Time Estimation of a Mobile Agent’s Location Using Hidden Markov Models](https://cedricbeaulac.github.io/files/VersionFinale.pdf)
   * Supervisor : [Dr. Fabrice Larribe](http://fabricelarribe.uqam.ca)
 
-* B.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2013
+* B.S. in Mathematics, University of Utah
+* B.S. in Physics, University of Utah
 
 Awards
 ======
@@ -74,13 +76,6 @@ Posters
    <ul>{% for post in site.posters reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-University commitment
-======
-* 2014-2015 : Mathematics Graduate Student Union
-* 2011-2013 : Mathematics Undergraduate Programs Committee
-* 2011-2012 : Mathematics Teaching Evaluation Committee
-* 2011-2012 : Mathematics New Students Integration Committee
 
 Teaching
 ======
@@ -100,6 +95,6 @@ Teaching
 Language
 ======
 * Computer
-  * R, Python, C++, Matlab, Excel, Java, SAS,
+  * Matlab, Fortran, Python 
 * Human 
-  * French, English, Spanish (intermediate) 
+  * English, Portuguese (conversational) 
