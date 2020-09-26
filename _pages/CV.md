@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Mathematics, University of Toronto, In progress
+* Ph.D. in Mathematics, New York University
   * Thesis : Numerical Studies of Droplets on Superhydrophobic Surfaces
   * Advisor : [Dr. Robert V. Kohn](https://www.math.nyu.edu/faculty/kohn/)
 
